@@ -11,3 +11,12 @@ A burger logger application with MySQL, Node, Express, Handlebars and a homemade
 - Each burger in the waiting area also has a `Devour it!` button. When the user clicks it, the burger will move to the right side of the page.
 
 - This app stores every burger in a database, whether devoured or not.
+
+## Tech:
+
+- [node.js]
+- [express.js]
+- [MySQL]
+- [express-handlebars.js]
+
+I think the biggest technical challenge was to write an ORM from scratch.
