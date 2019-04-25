@@ -20,3 +20,7 @@ A burger logger application with MySQL, Node, Express, Handlebars and a homemade
 - [express-handlebars.js]
 
 I think the biggest technical challenge was to write an ORM from scratch.
+
+## Screenshots:
+
+![project screenshots](public/assets/img/screencapture.png)
